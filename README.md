@@ -1,4 +1,4 @@
-<h1 align="center">💨🍃 Olá, eu sou Guilherme Gomes</h1>
+<h1 align="center">💨🍃 Olá, eu sou Guilherme Gomes.</h1>
 
 <p align="center">
   🎓 Ciência da Computação • 💻 Dev em formação • 🚀 Foco em Full Stack
